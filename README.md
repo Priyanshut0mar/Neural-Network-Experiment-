@@ -53,5 +53,5 @@ This repository contains the official lab implementations for the 3rd-year B.Tec
 
 ---
 
-**Student Name:** Priyanshu Tomar 
+**Student Name:** Priyanshu Tomar (2301010162)
 **Degree:** B.Tech CSE (3rd Year)
